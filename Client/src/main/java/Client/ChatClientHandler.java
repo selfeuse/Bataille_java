@@ -20,7 +20,7 @@ public class ChatClientHandler extends ChannelInboundMessageHandlerAdapter<Strin
             String phrase = scanner.nextLine();
             arg0.channel().write(phrase);
         }
-        else if (arg1.contains("perdu") || arg1.contains("gagné")) {
+        else if (arg1.contains("Vous avez perdu") || arg1.contains(" Vous avez gagné")) {
             System.out.println("La partie est finie.");
             System.exit(1);
         }
