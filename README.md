@@ -1,6 +1,9 @@
 # Bataille_java
 
-But du jeu :
+Ce programme a été codé sur IntelliJ en utilisant Maven, Netty(4.0.0.CR3) et javassist(3.12.1.GA).
+Toutes les dépendances ont été ajoutées dans les pom.xml.
+
+But du jeu:
 Le but du jeu est d’avoir toutes les cartes en main.
 Au début du jeu, chaque joueur reçoit des cartes en 7 et le Roi en valeur.
 Chacun leur tour, ils peuvent jouer une carte, la carte la plus forte gagne, et le joueur reçoit les cartes des perdants.
