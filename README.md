@@ -1,6 +1,7 @@
 # Bataille_java
 
-Ce programme a été codé sur IntelliJ en utilisant Maven, Netty(4.0.0.CR3) et javassist(3.12.1.GA).
+Ce programme a été codé en une semaine, sans connaissance de base en Java.
+Il a été réalisé sur IntelliJ en utilisant Maven, Netty(4.0.0.CR3) et javassist(3.12.1.GA).
 Toutes les dépendances ont été ajoutées dans les pom.xml.
 
 But du jeu:
